@@ -1,0 +1,61 @@
+.about-section {
+    background-color: #0f172a;
+    color: #f1f5f9;
+    padding: 60px 20px;
+    min-height: 60vh;
+  }
+  
+  .about-content {
+    max-width: 900px;
+    margin: auto;
+    text-align: left;
+  }
+  
+  .about-content h2 {
+    font-size: 28px;
+    color: #38bdf8;
+    margin-bottom: 20px;
+    border-bottom: 2px solid #334155;
+    padding-bottom: 8px;
+  }
+  
+  .about-content p {
+    font-size: 16px;
+    color: #cbd5e1;
+    line-height: 1.7;
+    margin-bottom: 16px;
+  }
+  
+  .about-content strong {
+    color: #facc15; /* Yellow highlight for project name */
+  }
+  
+  .tools h3 {
+    font-size: 20px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    color: #e2e8f0;
+  }
+  
+  .tools-list {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .tools-list li {
+    background-color: #1e293b;
+    color: #38bdf8;
+    padding: 8px 16px;
+    border-radius: 20px;
+    font-size: 14px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .tools-list li:hover {
+    background-color: #334155;
+  }
+  
