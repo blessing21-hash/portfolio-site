@@ -2,11 +2,11 @@ import React from 'react';
 import { Routes,Route } from 'react-router-dom';
 // import Header from './components/Header';
 // import Footer from './components/Footer';
-import Home from './pages/Home';
-import About from './pages/About';
-import Projects from './pages/Projects';
-import Resume from './pages/Resume';
-import Contact from './pages/Contact';
+import Home from './pages/Home.jsx';
+import About from './pages/About.jsx';
+import Projects from './pages/Projects.jsx';
+import Resume from './pages/Resume.jsx';
+import Contact from './pages/Contact.jsx';
 import './App.css';
 // updates
 
