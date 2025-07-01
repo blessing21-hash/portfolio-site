@@ -42,7 +42,7 @@
 import React from 'react';
 import { useNavigate } from 'react-router-dom';
 import Header from '../Components/Header';
-import About2 from '../Pages/About2';
+import About2 from './About2';
 import Footer from '../Components/Footer';
 
 const About = () => {

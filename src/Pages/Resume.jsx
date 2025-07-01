@@ -26,7 +26,7 @@
 import React from 'react';
 import { useNavigate } from 'react-router-dom';
 import Header from '../Components/Header';
-import Resume2 from '../Pages/Resume2';
+import Resume2 from './Resume2';
 import Footer from '../Components/Footer';
 
 const Resume = () => {

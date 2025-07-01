@@ -34,7 +34,7 @@
 import React from 'react';
 import { useNavigate } from 'react-router-dom';
 import Header from '../Components/Header';
-import Home2 from '../Pages/Home2';
+import Home2 from './Home2';
 import Footer from '../Components/Footer';
 
 const Home = () => {

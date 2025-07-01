@@ -55,7 +55,7 @@
 import React from 'react';
 import { useNavigate } from 'react-router-dom';
 import Header from '../Components/Header';
-import Projects2 from '../Pages/Projects2';
+import Projects2 from './Projects2';
 import Footer from '../Components/Footer';
 
 const Projects = () => {

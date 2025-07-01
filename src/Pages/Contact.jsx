@@ -83,7 +83,7 @@
 import React from 'react';
 import { useNavigate } from 'react-router-dom';
 import Header from '../Components/Header';
-import Contact2 from '../Pages/Contact2';
+import Contact2 from './Contact2';
 import Footer from '../Components/Footer';
 
 const Contact = () => {
