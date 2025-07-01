@@ -7,7 +7,7 @@ const About = () => {
       <div className="about-content">
         <h2>About Me</h2>
         <p className="about-intro">
-          I'm Blessing Kusiwani, a frontend developer passionate about building interactive and user-focused websites.
+          I'm Blessing Kusiwani a frontend developer passionate about building interactive and user-focused websites.
           I enjoy turning complex problems into clean, intuitive interfaces using tools like React and plain CSS.
         </p>
 
