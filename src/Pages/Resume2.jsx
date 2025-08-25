@@ -1,6 +1,6 @@
 import React from 'react';
 import './Resume2.css';
-// import resumePDF from '../assets/BlessingKusiwani_Resume.pdf'; // Replace with your actual PDF path
+import resumePDF from '../assets/blessy.pdf'; // Replace with your actual PDF path
 
 const Resume = () => {
   return (

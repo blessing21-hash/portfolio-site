@@ -63,13 +63,13 @@ const Contact = () => {
 
         <div className="social-links">
           <h3>Find me on</h3>
-          <a href="https://github.com/yourusername" target="_blank" rel="noreferrer" aria-label="GitHub">
+          <a href="https://github.com/blessing21-hash" target="_blank" rel="noreferrer" aria-label="GitHub">
             GitHub
           </a>
-          <a href="https://linkedin.com/in/yourprofile" target="_blank" rel="noreferrer" aria-label="LinkedIn">
+          <a href="https://www.linkedin.com/in/blessing-kusiwani" target="_blank" rel="noreferrer" aria-label="LinkedIn">
             LinkedIn
           </a>
-          {/* Add more social links if you want */}
+          
         </div>
       </div>
     </section>

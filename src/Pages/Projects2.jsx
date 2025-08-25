@@ -57,7 +57,7 @@ import React, { useState } from 'react';
 import './Projects2.css';
 import buildlinkImg from '../assets/buildlink.png';
 import resumeImg from '../assets/resume.png';
-import portfolioImg from '../assets/portfolio.png';
+import wiremiteImg from '../assets/wiremite.jpeg';
 import parkingImg from '../assets/parking-finder.png';
 import todoImg from '../assets/todo.png';
 import weatherImg from '../assets/weather.png';
@@ -68,28 +68,37 @@ const allProjects = [
     description: 'A handyman services platform...',
     tech: ['React', 'TailwindCSS', 'Router'],
     image: buildlinkImg,
-    link: 'https://your-buildlink-site.com',
+    link: 'https://github.com/blessing21-hash/buildlink',
   },
   {
     title: 'React Resume',
     description: 'Responsive resume built with React...',
     tech: ['React', 'CSS', 'PDF'],
     image: resumeImg,
-    link: 'https://github.com/yourusername/react-resume',
+    link: 'blessy.pdf',
   },
+
+  // https://github.com/yourusername/react-resume
+  // {
+  //   title: 'Portfolio Website',
+  //   description: 'Personal dev portfolio with animations...',
+  //   tech: ['React', 'CSS'],
+  //   image: portfolioImg,
+  //   link: '/',
+  // },
   {
-    title: 'Portfolio Website',
-    description: 'Personal dev portfolio with animations...',
-    tech: ['React', 'CSS'],
-    image: portfolioImg,
-    link: '/',
-  },
+       title: 'Wiremite App',
+       description: 'An application that sends money',
+       tech: ['React', 'CSS'],
+      image: wiremiteImg,
+       link: 'https://github.com/blessing21-hash/wiremite-app',
+     },
   {
     title: 'Parking Space Finder',
     description: 'Book parking spots with live maps.',
     tech: ['React', 'Google Maps API'],
     image: parkingImg,
-    link: 'https://github.com/yourusername/parking-finder',
+    link: 'https://github.com/blessing21-hash/parking',
   },
   {
     title: 'Todo Tracker App',
