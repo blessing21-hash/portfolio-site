@@ -91,7 +91,7 @@ const allProjects = [
        description: 'An application that sends money',
        tech: ['React', 'CSS'],
       image: wiremiteImg,
-       link: 'https://github.com/blessing21-hash/wiremite-app',
+       link: 'https://wiremite-app.vercel.app/',
      },
   {
     title: 'Parking Space Finder',
@@ -105,7 +105,7 @@ const allProjects = [
     description: 'Minimal to-do tracker with dark mode.',
     tech: ['React', 'LocalStorage'],
     image: todoImg,
-    link: 'https://your-todo-app-link.com',
+    link: 'https://todo-tracker-snowy.vercel.app/',
   },
   {
     title: 'Weather Dashboard',

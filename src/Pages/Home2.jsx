@@ -1,8 +1,8 @@
 import React from 'react';
 import './Home2.css';
 import profilePic from '../assets/blessing.jpg'; // Replace with your actual image path
-import Header from '../Components/Header';
-import Footer from '../Components/Footer';
+// import Header from '../Components/Header';
+// import Footer from '../Components/Footer';
 
 
 const Home = () => {

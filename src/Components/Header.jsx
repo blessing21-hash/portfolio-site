@@ -11,6 +11,7 @@ const Header = () => (
       <Link to="/projects">Projects</Link>
       <Link to="/resume">Resume</Link>
       <Link to="/contact">Contact</Link>
+      <Link to="view-projects" className="nav-cta-button">View Projects</Link>
     </div>
   </nav>
 );
