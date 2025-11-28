@@ -98,7 +98,7 @@ const allProjects = [
     description: 'Book parking spots with live maps.',
     tech: ['React', 'Google Maps API'],
     image: parkingImg,
-    link: 'https://github.com/blessing21-hash/parking',
+    link: ' https://parkade-fcju.vercel.app/',
   },
   {
     title: 'Todo Tracker App',
